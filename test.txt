@@ -2,8 +2,6 @@ first test
 test1
 
 
+testtesttest
 
-
-
-python3  test1
-python3  test2
+python test webdriver
