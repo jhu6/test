@@ -5,4 +5,5 @@ test1
 
 
 
-python3  test
+python3  test1
+python3  test2
